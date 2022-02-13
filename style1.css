@@ -2,8 +2,11 @@
     text-align: justify;
     
 }
-
-.div1 > h1{
-    margin: center;
-
+.bi{font-size: 50px;
+    color:white;
+    /* padding-left: 130px; */
+    background-color: #0D6EFD;
+margin-left: 120px;
+padding:5px 12px;
+margin-bottom: 10px;
 }
